@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "60bffbad18653f83941be393",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd14Txv031zmnOdB79hQpF03Vih_bR3e3ccvgiRQWe-_UUkV1cBMychdcfU1602SpaDe4&usqp=CAU",
+    "fullname": "Shana Stuart",
+    "phone": "+38 (091) 44-16-362"
+  },
+  {
+    "_id": "60bffbad16adbf8e39c58780",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd14Txv031zmnOdB79hQpF03Vih_bR3e3ccvgiRQWe-_UUkV1cBMychdcfU1602SpaDe4&usqp=CAU",
+    "fullname": "Glenna Vaughn",
+    "phone": "+38 (094) 95-86-218"
+  },
+  {
+    "_id": "60bffbadd225ada8781e6bf7",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd14Txv031zmnOdB79hQpF03Vih_bR3e3ccvgiRQWe-_UUkV1cBMychdcfU1602SpaDe4&usqp=CAU",
+    "fullname": "Whitehead Conner",
+    "phone": "+38 (086) 74-76-201"
+  },
+  {
+    "_id": "60bffbade6220bf63ccfd4d2",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd14Txv031zmnOdB79hQpF03Vih_bR3e3ccvgiRQWe-_UUkV1cBMychdcfU1602SpaDe4&usqp=CAU",
+    "fullname": "Frances Stanton",
+    "phone": "+38 (091) 25-30-221"
+  },
+  {
+    "_id": "60bffbad3a3fd9a92d2019e5",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd14Txv031zmnOdB79hQpF03Vih_bR3e3ccvgiRQWe-_UUkV1cBMychdcfU1602SpaDe4&usqp=CAU",
+    "fullname": "Georgette Carroll",
+    "phone": "+38 (087) 94-15-219"
+  },
+  {
+    "_id": "60d25d79a1ebef1b30896131",
+    "fullname": "Тест",
+    "phone": "+25 058 505 999",
+    "picture": "file:///data/user/0/com.mobile/cache/rn_image_picker_lib_temp_8e4efd15-fb5e-4152-b21f-08d12dd2e4a1.jpg"
+  },
+  {
+    "_id": "60d2666fa7b1672c7cfab774",
+    "fullname": "Нееее",
+    "phone": "+98 (000) 000 0000",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd14Txv031zmnOdB79hQpF03Vih_bR3e3ccvgiRQWe-_UUkV1cBMychdcfU1602SpaDe4&usqp=CAU"
+  }
+]

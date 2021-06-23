@@ -1,0 +1,38 @@
+[
+  {
+    "date": "1624249680000",
+    "patient_id": "60bffbad18653f83941be393",
+    "description": "sadsadasdas",
+    "_id": "60cd72726cbc940aa89fc3f6"
+  },
+  {
+    "date": "1624249680000",
+    "patient_id": "60bffbad18653f83941be393",
+    "description": "sadsadasdas",
+    "_id": "60cd72726cbc940aa89fc3f6"
+  },
+  {
+    "_id": "60ccda273f6f2db7eae3fabe",
+    "date": 1624621800000,
+    "description": "пульпіт, видалення зуба",
+    "patient_id": "60bffbadd225ada8781e6bf7"
+  },
+  {
+    "_id": "60ccda3123eff2bb32d74fda",
+    "date": 1624621800000,
+    "description": "пульпіт, видалення зуба",
+    "patient_id": "60bffbade6220bf63ccfd4d2"
+  },
+  {
+    "_id": "60ccda3fcf409a7bfcd65d91",
+    "date": 1624621800000,
+    "description": "пульпіт, видалення зуба",
+    "patient_id": "60bffbad3a3fd9a92d2019e5"
+  },
+  {
+    "date": "1624905360000",
+    "description": "Уколлл",
+    "patient_id": "60d1e1525a1a521fcc431a0d",
+    "_id": "60d22db51d308228906a2d35"
+  }
+]
