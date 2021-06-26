@@ -5,6 +5,6 @@ Steps to run this project localy:
   5. open "mobile" directory.
   6. run "npm install".
   7. go to "src/utils/endpoints.js" file and change server ip to your local machine ip (const server = 'http://{your_local_machine_ip}/api';).
-  8. connect your device via usb or run you android emulator.
+  8. connect your device via usb or run your android emulator.
   9. run project with "react-native run-android" command.
  
